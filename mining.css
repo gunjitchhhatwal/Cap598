@@ -1,0 +1,11 @@
+#container{
+    text-align:center
+}
+
+input[type=text] {
+    width: 500px
+}
+
+#pageDesc {
+    text-align: center
+}
